@@ -1,0 +1,11 @@
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\platformeur.vcxproj.CopyComplete
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\platformeur.exe
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\sfml-graphics-d-2.dll
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\sfml-window-d-2.dll
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\sfml-system-d-2.dll
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\freetyped.dll
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\zlibd1.dll
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\bz2d.dll
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\libpng16d.dll
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\brotlidec.dll
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\brotlicommon.dll

@@ -1,0 +1,14 @@
+﻿  platformeur.cpp
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(156,59): warning C4244: 'argument' : conversion de 'size_t' en 'float', perte possible de données
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(156,51): warning C4244: 'argument' : conversion de 'size_t' en 'float', perte possible de données
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(164,81): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(164,55): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(166,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(166,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(178,12): warning C4129: '~' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(178,12): warning C4129: '.' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(179,12): warning C4129: '_' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(180,12): warning C4129: ' ' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(181,12): warning C4129: '/' : caractère de séquence d'échappement non reconnu
+C:\ecole\git\c++\projet\ex sur sfml\platformeur\platformeur.cpp(182,12): warning C4129: '_' : caractère de séquence d'échappement non reconnu
+  platformeur.vcxproj -> C:\ecole\git\c++\projet\ex sur sfml\platformeur\x64\Debug\platformeur.exe
